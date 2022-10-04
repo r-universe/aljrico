@@ -1,9 +1,5 @@
 [
   {
-    "package": "gameofthrones",
-    "oncran": true
-  },
-  {
     "package": "harrypotter",
     "oncran": true
   }
