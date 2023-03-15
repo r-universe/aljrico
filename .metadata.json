@@ -2,5 +2,9 @@
   {
     "package": "harrypotter",
     "oncran": true
+  },
+  {
+    "package": "planets",
+    "oncran": true
   }
 ]

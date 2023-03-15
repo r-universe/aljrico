@@ -8,3 +8,8 @@
 	url = https://github.com/aljrico/harrypotter
 	shallow = true
 	registered = true
+[submodule "planets"]
+	path = planets
+	url = https://github.com/aljrico/planets
+	shallow = true
+	registered = true
