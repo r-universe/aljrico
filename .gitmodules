@@ -8,3 +8,6 @@
 [submodule "planets"]
 	path = planets
 	url = https://github.com/aljrico/planets
+[submodule "toonlite"]
+	path = toonlite
+	url = https://github.com/aljrico/toonlite
