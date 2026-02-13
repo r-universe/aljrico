@@ -11,3 +11,6 @@
 [submodule "toonlite"]
 	path = toonlite
 	url = https://github.com/aljrico/toonlite
+[submodule "usearchlite"]
+	path = usearchlite
+	url = https://github.com/aljrico/usearchlite
